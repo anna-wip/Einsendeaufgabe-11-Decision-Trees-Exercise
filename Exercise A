@@ -1,0 +1,5 @@
+if age = "<=30" and student = "no" then buys_computer = "no"
+if age = "<=30" and student = "yes" then buys_computer = "yes"
+if age = "31...40" then buys_computer = "yes"
+if age = ">40" and credit_rating = "excellent" then buys_computer = "yes"
+if age = "<=30" and credit_rating = "fair" then buys_computer = "no"
